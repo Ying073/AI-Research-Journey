@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+*.pyc
+
+data/
+dataset/
+logs/
+
+.venv/
+.env
+*.pt
+*.pth
+*.ckpt
+wandb/

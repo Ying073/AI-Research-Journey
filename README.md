@@ -4,6 +4,8 @@ My journey toward AI research
 
 ## Learning
 
+- DataAnalysis
+- MachineLearning
 - Pytorch
 - DeepLearning
 
